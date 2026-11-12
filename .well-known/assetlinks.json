@@ -1,0 +1,8 @@
+[{
+      "relation": ["delegate_permission/common.handle_all_urls"],
+      "target": {
+        "namespace": "android_app",
+        "package_name": "com.rabialquran.app",
+        "sha256_cert_fingerprints": ["AA:85:77:BD:AE:7C:E2:D5:AF:44:F9:68:0F:F9:03:EF:6F:60:96:17:84:72:BC:F3:E8:4E:A0:3F:58:A6:C2:AB"]
+      }
+    }]
